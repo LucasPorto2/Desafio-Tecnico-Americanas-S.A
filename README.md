@@ -1,4 +1,4 @@
-# Desafio-Tecnico-Americanas-S.A
+# Desafio-Tecnico-Americanas-S.A.
 Este repositório contém a minha solução para o Desafio Técnico referente a posição de Cientista de Dados Júnior na Americanas S.A.
 
 Arquivos :
