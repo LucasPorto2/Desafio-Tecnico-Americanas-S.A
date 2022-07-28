@@ -11,7 +11,7 @@ Arquivos :
 
 Mais detalhes sobre o arquivo **Desafio Técnico - Cientista de Dados - Americanas S.A..ipynb** :
 
-Este arquivo apresenta todo um estudo sobre o dataset e constrói uma base teórica que nos permite após testarmos vários modelos escolhermos aquele que melhor se adequa aos dados. São feitas considerações sobre a acurácia de diversos modelos tanto no conjunto de treino como em dados não vistos durante o treinamento. Após a escolha do melhor modelo é feita a otimização de hiperparâmetros. Uma vez escolhido o melhor modelo é apresentada a solução final no arquivo **Entrega do Modelo.ipynb** que contém a função final_model. Essa função se utiliza do modelo obtido após o estudo presente no arquivo **Desafio Técnico - Cientista de Dados - Americanas S.A..ipynb**.
+Este arquivo apresenta todo um estudo sobre o dataset e constrói uma base teórica que nos permite após testarmos vários modelos escolhermos aquele que melhor se adequa aos dados. São feitas considerações sobre a acurácia de diversos modelos tanto no conjunto de treino como em dados não vistos durante o treinamento. Após a escolha do melhor modelo é feita a otimização de alguns hiperparâmetros. Após a otimização do melhor modelo é apresentada a solução final no arquivo **Entrega do Modelo.ipynb** que contém a função final_model. Essa função se utiliza do modelo obtido após o estudo realizado no arquivo **Desafio Técnico - Cientista de Dados - Americanas S.A..ipynb**.
 
 **Análise Exploratória dos Dados** - Leitura do dataset , verificação da dimensão dos dados, análise de valores ausentes, tipos de dados, estatísticas básicas, distribuição da variável target.
 
