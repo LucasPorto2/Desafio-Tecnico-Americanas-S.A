@@ -19,4 +19,4 @@ Este arquivo apresenta todo um estudo sobre o dataset e constrói uma base teór
 
 **Modelagem** - Treinamento de 10 modelos, verificação da acurácia desses modelos quando realizamos previsões no próprio conjunto de treino.
 
-**Avaliação da Performance do Modelo** - Verificação da acurácia obtida pelos 3 melhores modelos da seção anterior quando avaliados em dados não vistos, otimização de hiperparâmetros. 
+**Avaliação da Performance do Modelo** - Verificação da acurácia obtida pelos 3 melhores modelos da seção anterior quando avaliados em dados não vistos durante o treinamento, otimização de hiperparâmetros. 
