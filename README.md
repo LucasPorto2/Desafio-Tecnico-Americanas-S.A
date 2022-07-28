@@ -3,7 +3,7 @@ Este repositório contém a minha solução para o Desafio Técnico referente a 
 
 Arquivos :
 
-dataset_cdjr.parquet.gzip - Dataset utilizado para resolver o desafio
+**dataset_cdjr.parquet.gzip** - Dataset utilizado para resolver o desafio
 
 Desafio Técnico - Cientista de Dados - Americanas S.A..ipynb - Contém as seguintes tarefas : Análise Exploratória dos Dados, Preparação dos Dados, Modelagem e Avaliação da Performance do Modelo
 
