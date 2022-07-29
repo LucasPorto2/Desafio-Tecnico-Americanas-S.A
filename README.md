@@ -7,7 +7,7 @@ Arquivos :
 
 **Desafio Técnico - Cientista de Dados - Americanas S.A..ipynb** - Contém as seguintes tarefas : Análise Exploratória dos Dados, Preparação dos Dados, Modelagem e Avaliação da Performance do Modelo.
 
-**Entrega do Modelo.ipynb** - Contém a última etapa, apresenta a solução final do desafio e informa como "rodar" a solução construída. Para rodar a solução basta executar a função final_model que possui como único argumento a matriz de features X. Portanto, o único cuidado que devemos tomar é escolher a matriz de features sob a qual queremos fazer previsões.
+**Entrega do Modelo.ipynb** - Contém a última etapa, apresenta a solução final do desafio e informa como "rodar" a solução construída. Para rodar a solução basta executar a função final_model. Essa função não possui nenhum argumento e ao chamá-la será solicitado ao usuário que entre com os valores das features, ou seja, feature0, feature1, ..., feature15 referentes à amostra cuja qual o usuário quer prever a variável alvo.
 
 Mais detalhes sobre o arquivo **Desafio Técnico - Cientista de Dados - Americanas S.A..ipynb** :
 
